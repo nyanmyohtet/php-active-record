@@ -1,6 +1,6 @@
 # PHP ActiveRecord
 
-Accession Database with PHP ActiveRecord
+Accessing Database with PHP ActiveRecord
 
 ### Serve Development
 

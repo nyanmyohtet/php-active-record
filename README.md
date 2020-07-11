@@ -9,5 +9,7 @@ Accessing Database with PHP ActiveRecord
 ## Requirements
 
 PHP: 7.2.24
+
 Composer: 1.10.8
+
 mysql: 14.14
